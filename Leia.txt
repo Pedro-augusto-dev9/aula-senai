@@ -1,0 +1,7 @@
+# oque vimos
+
+#1. Alunos => append(), for
+2. Notas => sum(), len(), médias
+3. compras => listas, paralelos, acumuladro
+4. par e impar => %, if, filtragem
+5. 
